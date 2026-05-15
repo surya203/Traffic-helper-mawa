@@ -1,0 +1,6 @@
+{
+  "urban": "Typical urban limit: 50 km/h unless a sign says otherwise.",
+  "residential": "Residential areas often use 30–40 km/h — watch for school zones.",
+  "highway": "Expressways may allow up to 100 km/h for cars — always follow posted signs.",
+  "school_zone": "Near schools, slow to 25–30 km/h when children may be present."
+}

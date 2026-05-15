@@ -1,0 +1,16 @@
+[
+  {
+    "from": "Hyderabad",
+    "to": "chennai",
+    "distance_km": 623.53,
+    "duration_min": 473.0,
+    "timestamp": "2026-05-15T15:04:20.081743+00:00"
+  },
+  {
+    "from": "kphb",
+    "to": "miyapur",
+    "distance_km": 5.19,
+    "duration_min": 7.4,
+    "timestamp": "2026-05-15T15:05:04.624772+00:00"
+  }
+]
